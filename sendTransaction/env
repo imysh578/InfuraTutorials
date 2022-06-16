@@ -1,0 +1,9 @@
+/**
+ * 1. Change file name : env --> .env
+ * 2. Replace Your-Project-ID and Your-Private-Key with your value
+ * 3. Make sure not to expose private key!
+ */
+
+ETHEREUM_NETWORK = "ropsten"
+INFURA_PROJECT_ID = "<Your-Project-ID>"
+SIGNER_PRIVATE_KEY = "<Your-Private-Key>"
